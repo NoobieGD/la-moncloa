@@ -23,7 +23,7 @@ Abre la dirección que imprime la terminal, normalmente `http://127.0.0.1:4173`.
 
 Como alternativa, selecciona **GitHub Actions** como origen de Pages. El flujo incluido en `.github/workflows/pages.yml` ejecuta las pruebas y publica al subir cambios a `main` o `master`. Debes subir también la carpeta oculta `.github`; una subida por Git conserva todos los archivos.
 
-Los enlaces y recursos son relativos: funciona tanto en `usuario.github.io` como en `usuario.github.io/repositorio/`. No necesita servidor de aplicación, base de datos ni claves secretas. No se ha creado ni publicado ningún repositorio desde este proyecto local.
+Los enlaces y recursos son relativos: funciona tanto en `usuario.github.io` como en `usuario.github.io/repositorio/`. No necesita servidor de aplicación, base de datos ni claves secretas. Repositorio público: https://github.com/NoobieGD/la-moncloa · Jugar: https://noobiegd.github.io/la-moncloa/
 
 ## Qué puedes hacer
 
@@ -42,7 +42,7 @@ Los enlaces y recursos son relativos: funciona tanto en `usuario.github.io` como
 - Repartir escaños con D’Hondt en 19 circunscripciones de juego, negociar la investidura y continuar otros mandatos.
 - Afrontar finales por pérdida de apoyos parlamentarios, crisis extrema de deuda o falta de mayoría tras una elección.
 - Cumplir seis objetivos de legado, revisar el historial, ver gráficos y descargar la crónica.
-- Guardar automáticamente, exportar e importar partidas entre dispositivos, activar sonidos y reducir movimiento o calidad gráfica.
+- Guardar automáticamente, exportar e importar partidas entre dispositivos, escuchar efectos diferentes para decisiones, votaciones, elecciones, navegación y cambios de mes, y reducir movimiento o calidad gráfica.
 
 ## Reglas rápidas
 
