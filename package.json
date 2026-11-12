@@ -1,0 +1,9 @@
+{
+  "name": "la-moncloa-simulador",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simulador político 3D estático, sin compilación ni dependencias remotas.",
+  "scripts": { "start": "node serve.cjs", "test": "node --test tests/simulation.test.cjs" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
